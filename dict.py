@@ -49,3 +49,16 @@ file_types = {
 print(".pdf" in file_types)       
 print(".mp3" in file_types)       
 print(".mp3" not in file_types)   
+
+# Python Dictionary Methods
+# Here are some of the commonly used dictionary methods.
+
+# Function	Description
+# pop()	Removes the item with the specified key.
+# update()	Adds or changes dictionary items.
+# clear()	Remove all the items from the dictionary.
+# keys()	Returns all the dictionary's keys.
+# values()	Returns all the dictionary's values.
+# get()	Returns the value of the specified key.
+# popitem()	Returns the last inserted key and value as a tuple.
+# copy()	Returns a copy of the dictionary.
