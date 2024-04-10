@@ -1,5 +1,5 @@
-# def welcome():
-#     print("Hey your are welcome to the world of python.")
+def welcome():
+    print("Hey your are welcome to the world of python.")
 
-# imp = "Programmer can program anything."
+imp = "Programmer can program anything."
 
