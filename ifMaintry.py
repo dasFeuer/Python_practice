@@ -1,3 +1,3 @@
 import ifMain
 
-# ifMain.welcome()
+ifMain.welcome()
