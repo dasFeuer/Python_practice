@@ -17,16 +17,16 @@ result = addNum(num1, num2)
 print(f"sum of {num1} and {num2} is {result}")
 
 
-def addNumRecursive (c, d):
+def add (c, d):
     if d == 0:
         return c
     else:
-        return addNumRecursive(c + 1, d -1)
+        return add(c + 1, d -1)
 
 num1 = int(input("Enter 1st number:"))
 num2 = int(input("Enter 2nd number:"))
 
-res = addNumRecursive(num1, num2)
+res = add(num1, num2)
 
 print(f"sum of {num1} and {num2} is {res}")
 
