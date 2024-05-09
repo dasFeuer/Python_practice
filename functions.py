@@ -13,7 +13,6 @@ def avg(*num):
         # return 7
     return sum/ len(num)
 
-
 avg(4, 8)
 
 b = avg(2,4,5,6)
